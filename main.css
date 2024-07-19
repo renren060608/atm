@@ -1,0 +1,125 @@
+*{
+ 
+    color: white;
+}
+
+
+body{
+    margin:30px;
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+  
+    
+    
+}
+
+.card {
+
+max-width:550px;
+max-height: 400px;
+min-height: 200px;
+width: 550px;
+
+min-width: 300px;
+border-radius: 25px;
+box-shadow: 10px 10px 19px -1px rgba(0,0,0,0.28);
+-webkit-box-shadow: 10px 10px 19px -1px rgba(0,0,0,0.28);
+-moz-box-shadow: 10px 10px 19px -1px rgba(0,0,0,0.28);
+background-image: url(images/black.jpg);
+
+
+
+}
+
+
+
+
+
+.card  span{
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: space-between;
+  
+}
+
+
+.eks img{
+   
+
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+img{
+    width:100px ;
+    height:60px ;
+   
+}
+
+.eks{
+    
+
+}
+
+h5{
+    color: rgb(255, 255, 255);
+
+
+}
+
+.eks2 img{
+    margin-top: 5px;
+}
+
+.text{
+    margin-left:25px ;
+    margin-right: 25px;
+    margin-bottom: 0;
+    padding-bottom: 0%;
+    padding-top: 20px;
+    
+   font-size: x-large;
+    font-weight:lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pen{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left:25px ;
+    margin-right: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.num{
+font-size: xx-large;
+
+
+
+}
+
+.pic{
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    font-weight: lighter;
+
+}
